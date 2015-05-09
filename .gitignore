@@ -5,3 +5,5 @@
 /scripts/email/config.yml
 \.~lock*
 /scripts/build
+env
+.idea
